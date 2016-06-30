@@ -1,0 +1,83 @@
+
+
+Music Player
+
+Martin Murphy
+Project 4
+CS112
+11/20/2014
+
+Note: Load songs from mp3 folder
+
+I. File list
+------------
+Manager
+MPlayerPanel
+Song
+SongLib
+song.txt
+mp3 folder
+
+README.txt
+
+Jaudo Lib
+Jlayer lib
+
+
+
+
+
+
+
+II. Design
+----------
+A. Program designed to allow I/O mp3 files
+with load/save function
+
+B. Play mp3 files and queue to playlist
+
+C. Search song library
+
+
+
+
+
+
+
+
+III. Resources
+-------------
+Java Solutions textbook
+Oracle Documentation 
+
+Class Examples/Code
+
+MultiTHREADS
+Music GUI
+
+Given JAR files/libs  Jaudio/Layer
+
+
+http://cs.usfca.edu/~apjoshi/cs112/code
+
+TA Michael
+
+-General Resources for Java used
+
+Class Examples
+UDACITY.com Intro Java Course by San Jose State
+https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw
+http://math.hws.edu/javanotes/
+
+
+
+
+
+IV. Expected Issues
+------------------------
+A. Loading txt
+B. array index size exceptions
+C. Search 
+D.Qeueing of songs
+E. Commands with nothing loaded
+F. UI color updates in tables

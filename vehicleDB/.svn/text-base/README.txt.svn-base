@@ -1,0 +1,110 @@
+
+
+
+
+Martin Murphy
+Project 4
+CS112
+10/27/2014
+
+Project 3 README
+
+Note:
+-Program takes text file as an  arguments through an IDE or terminal. Default run is through GUIDRIVE as main
+
+
+***WRONG FILE WAS uploaded due to multiple versions trying to fix GUI error ** Please excuse my mistake as I would hate to lose points attempting the GUI extra credit.
+
+Will sometimes lockup up after finding search
+
+1 . Show 
+
+2 . Sort
+
+3 . Search
+
+
+
+
+I. File list
+------------
+Automobile.java
+Bicycle.java
+MotorCycle.java;
+Sedan.java;
+SedanTypes.java
+Truck.java
+TruckTypes.java
+TwoWheeler.java
+Vehicle.java
+VehicleDatabase.java
+VehicleGUIDrive.java
+VehiclePanel.java
+
+Default Packages
+right.gif(“test Icon buttons”)
+
+
+Two vehicles lists 
+*******
+Vehicles.txt
+Vehicles3.txt
+*********
+
+
+One is 46 vehicles and the other is around 16. I had a higher success rate with the smaller number of cars.
+
+One is much larger and Im having more trouble getting it to work.
+
+README.txt
+
+
+II. Design
+----------
+A. Program design
+
+1. Style
+Medium spacing/parsing
+Followed UML diagram 
+
+2. Database using the selection and binary algs
+
+
+
+
+
+
+III. Resources
+-------------
+Java Solutions textbook
+Oracle Documentation 
+
+Class Examples
+
+
+
+http://cs.usfca.edu/~apjoshi/cs112/notes/Interfaces_Testing_Layout.pdf
+http://cs.usfca.edu/~apjoshi/cs112/notes/Iterators_Events.pdf
+http://cs.usfca.edu/~apjoshi/cs112/code
+CS TAs Michael Tom with some of the methods concepts and advice regarding counters
+Team/Group
+-General Resources for Java used
+
+Class Examples
+UDACITY.com Intro Java Course by San Jose State
+https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw
+http://math.hws.edu/javanotes/
+
+
+IV. Expected Issues
+------------------------
+A. Proper input of arguments and object types.
+B. Numerous Sorting and searching bugs
+C. Not all extreme edge cases tested
+D. Proper implementation of methods and some of the variable names can get mixed up.
+E  Hard time implementing GUI properly bug free.
+
+
+
+
+

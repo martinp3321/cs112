@@ -1,0 +1,17 @@
+16
+Truck ,Toyota1 ,4 , 10.0, 4, Tundra1, 4, 3265, Pickup
+Truck,Toyota2,4,11.0,4,Tundra2,4,3265,Pickup
+Truck,Toyota3 ,4,12.0,4,Tundra3,4,3265,Pickup
+Truck,Toyota4,4,13.0, 4,Tundra4,4,3265,Pickup
+Bicycle ,Trek1 , 2, Skye SLX, 10, 110, true, true
+Bicycle,Trek2,2,Skye SLX,11,110,true,true
+Bicycle,Trek3,2,Skye SLX,12,110,true,true
+Bicycle,Trek4,2,Skye SLX,13,110,true,true
+MotorCycle , Toyota5, 2, Thundle, 400, 15, 11.0
+MotorCycle,Toyota6,2,Thundle,411,15,12.0
+MotorCycle,Toyota7,2,Thundle,422,15,13.0
+MotorCycle,Toyota8,2,Thundle,433,15,14.0
+Sedan ,Volvo1 ,4 , 16.0 ,5 , XC60, Small, 8, 15.0
+Sedan,Volvo2,4,17.0,5,XC60,Small,8,15.0
+Sedan,Volvo3,4,18.0,5,XC60,Small,8,15.0
+Sedan,Volvo4,4,19.0,5,XC60,Small,8,15.0
